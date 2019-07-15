@@ -21,11 +21,8 @@ Goal:
 + Active learning through exercises, tests, projects
 
 > * Statistics, experiemtnation, hypothesis testing, sampling etc using python + EDA (including visualization)
-
 > * Basic data gathering, connecting
-
 > * Using statistical python libraries
-
 > * Basic IDE, etc
 
 
@@ -33,13 +30,9 @@ Goal:
 + Active learning through exercises, tests, projects
 
 > * Feature engineering
-
 > * Feature Exploration
-
 > * Interpretability
-
 > * Parameter tuning
-
 > * Software coding/engineering
 
 
@@ -48,11 +41,8 @@ Goal:
 +Active learning + Projects + Technical inerview prep
 
 > * Productionalizing models
-
 > * Software engineering (advanced)
-
 > * NLP/Deep Learning Packages
-
 > * Recommendation Systems
 
 --------------------------------------------------------------------------------------------------------------------------------
