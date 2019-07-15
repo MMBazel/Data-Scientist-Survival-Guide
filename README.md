@@ -17,9 +17,34 @@ For questions or comments, please feel free to reach out on [LinkedIn](https://w
 
 Goal:
 
-* First 15 days - Passive-ish learning
-* Days 16-45 - Active learning through exercises, testsm porjects
-* Days 46-100 - Active learning + Projects + Technical inerview prep
+* First 30 days - Statistics, experiemtnation, hypothesis testing, sampling etc using python + EDA (including visualization)
++ Active learning through exercises, tests, projects
+
+++ Statistics, experiemtnation, hypothesis testing, sampling etc using python + EDA (including visualization)
+++ Basic data gathering, connecting
+++ Using statistical python libraries
+++ Basic IDE, etc
+
+
+* Days 31 - 60 - Basic machine learning (supervised + unsupervised, algorithms) 
++ Active learning through exercises, tests, projects
+
+++ Feature engineering
+++ Feature Exploration
+++ Interpretability
+++ Parameter tuning
+++ Software coding/engineering
+
+
+
+* Days 61 - 90 - Advanced machine learning (NLP, Deep Learning)  + Advanced mathematics + DS at Scale
++Active learning + Projects + Technical inerview prep
+
+++ Productionalizing models
+++ Software engineering (advanced)
+++ NLP/Deep Learning Packages
+++ Recommendation Systems
+
 --------------------------------------------------------------------------------------------------------------------------------
 
 ## Day 1: 7/15/2019
