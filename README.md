@@ -15,7 +15,11 @@ For more information about my Springboard work: All of the documentation, code, 
 
 For questions or comments, please feel free to reach out on [LinkedIn](https://www.linkedin.com/in/mikikobazeley/). 
 
+Goal:
 
+* First 15 days - Passive-ish learning
+* Days 16-45 - Active learning through exercises, testsm porjects
+* Days 46-100 - Active learning + Projects + Technical inerview prep
 --------------------------------------------------------------------------------------------------------------------------------
 
 ## Day 1: 7/15/2019
