@@ -20,40 +20,40 @@ Goal:
 * First 30 days - Statistics, experiemtnation, hypothesis testing, sampling etc using python + EDA (including visualization)
 + Active learning through exercises, tests, projects
 
-** Statistics, experiemtnation, hypothesis testing, sampling etc using python + EDA (including visualization)
+> * Statistics, experiemtnation, hypothesis testing, sampling etc using python + EDA (including visualization)
 
-** Basic data gathering, connecting
+> * Basic data gathering, connecting
 
-** Using statistical python libraries
+> * Using statistical python libraries
 
-** Basic IDE, etc
+> * Basic IDE, etc
 
 
 * Days 31 - 60 - Basic machine learning (supervised + unsupervised, algorithms) 
 + Active learning through exercises, tests, projects
 
-** Feature engineering
+> * Feature engineering
 
-** Feature Exploration
+> * Feature Exploration
 
-** Interpretability
+> * Interpretability
 
-** Parameter tuning
+> * Parameter tuning
 
-** Software coding/engineering
+> * Software coding/engineering
 
 
 
 * Days 61 - 90 - Advanced machine learning (NLP, Deep Learning)  + Advanced mathematics + DS at Scale
 +Active learning + Projects + Technical inerview prep
 
-** Productionalizing models
+> * Productionalizing models
 
-** Software engineering (advanced)
+> * Software engineering (advanced)
 
-** NLP/Deep Learning Packages
+> * NLP/Deep Learning Packages
 
-** Recommendation Systems
+> * Recommendation Systems
 
 --------------------------------------------------------------------------------------------------------------------------------
 
