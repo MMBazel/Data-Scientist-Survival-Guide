@@ -10,9 +10,12 @@ Hi!
 
 My name is Mikiko Bazeley and this repo represents the culmination of my data science career learnings. 
 
+![alt text](https://github.com/MMBazel/springboard-program/blob/master/Additional%20Resources/profile_pic_jpeg.jpg?raw=true)
+
+
 ### Repo Contents
 * [Wiki: Where I list resources & links that helped me on my data science journey](https://github.com/MMBazel/Data-Science-Journey/wiki)
-* 
+
 
 
 
