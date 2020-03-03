@@ -4,7 +4,7 @@
 
 
 
-# My Data Science Journey
+# Data Scientist One-Stop Shop
 
 Hi!
 
