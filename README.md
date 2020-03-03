@@ -11,7 +11,10 @@ Hi there!
 My name is Mikiko Bazeley and thanks for dropping by the Data Science Survival Guide!
 
 My goal is to document and curate the learnings, resources and code that helped me build a career in data science and machine learning.
-As someone that took the long-ish windy path to developing their career, I understand how frustrating and noisy the data science space is (and the influencers too!). I hope to make your data science journey a little easier by pulling together the resoures I used (and approve). 
+
+As someone that took the long-ish windy path to developing their career, I understand how frustrating and noisy the data science space is (and the influencers too!). 
+
+I hope to make your data science journey a little easier by pulling together the resources I used (and approve). 
 
 ![alt text](https://github.com/MMBazel/springboard-program/blob/master/Additional%20Resources/profile_pic_jpeg.jpg?raw=true)
 
