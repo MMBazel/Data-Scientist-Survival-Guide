@@ -21,12 +21,15 @@ I hope to make your data science journey a little easier by pulling together the
 
 ### Repo Contents
 * [Wiki: Where I list resources & links that helped me on my data science journey](https://github.com/MMBazel/Data-Science-Journey/wiki) - This wiki is a WIP as I continue to add more resources, more links and edit the accompanying descriptions.
-
+* Example Projects (<= To be added!)
+* Curated Code Snippets ( <= To be added!)
+* Recorded Workshops ( <= To be added!)
+* Additional Resources ( <= To be added!)
 
 
 
 ### About Me
-* Deision scientist passionate about crafting bespoke data science products for high-growth start-ups and tech companies. 
+* Decision scientist passionate about crafting bespoke data science products for high-growth start-ups and tech companies. 
 * Contributor with 5+ years leveraging data science, machine learning and advanced analytics to drive operations & strategy. 
 * Outside of my primary role as a Data Scientist focused on growth at Livongo, I also mentor for various data science programs (Data Science Dream Job, etc.) and consult for startups building ML/AI products in industries as diverse as real estate, fitness, etc.
 
