@@ -4,17 +4,20 @@
 
 
 
-# Data Scientist One-Stop Shop
+# Data Scientist Survival Guide
 
-Hi!
+Hi there!
 
-My name is Mikiko Bazeley and this repo represents the culmination of my data science career learnings. 
+My name is Mikiko Bazeley and thanks for dropping by the Data Science Survival Guide!
+
+My goal is to document and curate the learnings, resources and code that helped me build a career in data science and machine learning.
+As someone that took the long-ish windy path to developing their career, I understand how frustrating and noisy the data science space is (and the influencers too!). I hope to make your data science journey a little easier by pulling together the resoures I used (and approve). 
 
 ![alt text](https://github.com/MMBazel/springboard-program/blob/master/Additional%20Resources/profile_pic_jpeg.jpg?raw=true)
 
 
 ### Repo Contents
-* [Wiki: Where I list resources & links that helped me on my data science journey](https://github.com/MMBazel/Data-Science-Journey/wiki)
+* [Wiki: Where I list resources & links that helped me on my data science journey](https://github.com/MMBazel/Data-Science-Journey/wiki) - This wiki is a WIP as I continue to add more resources, more links and edit the accompanying descriptions.
 
 
 
